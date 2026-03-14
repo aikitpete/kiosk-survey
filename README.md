@@ -1,3 +1,3 @@
 # kiosk-survey
 
-A Java server for processing questionnaire or kiosk survey results.
+A Java server for processing kiosk survey results.
