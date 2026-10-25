@@ -1,5 +1,7 @@
 # kiosk-survey
 
-> **Status:** old academic/prototype project, not maintained. The Hibernate/Spring setup is dated and the database settings in `hibernate.cfg.xml` are placeholders.
+Java server for collecting and processing kiosk survey results (Spring, Hibernate, MySQL, Maven).
 
-A Java server for processing kiosk survey results.
+**Status:** archived university-era prototype. Set your own database credentials in `src/main/resources/hibernate.cfg.xml` before running.
+
+MIT licence.
